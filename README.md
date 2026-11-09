@@ -1,1 +1,1 @@
-# ProductLister
+# ProductLister - JavaFX Project
